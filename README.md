@@ -7,3 +7,7 @@
 
 [Чек-лист](https://docs.google.com/spreadsheets/d/1WaEKmYKz_sWfIawIPPadSynA2HEwgviE4xktZmNYUEw/edit?gid=0#gid=0)
 
+[Отчёты о дефекте](https://docs.google.com/spreadsheets/d/1ZRrcRavqbepfXPno_NRmi0NvwWGbAhxIyhFy3IDiUz4/edit?gid=585591189#gid=585591189)
+
+[Тестовый прогон](https://github.com/user-attachments/files/18349340/G9-Test%2Brun%2B2025_01_07.pdf)
+
