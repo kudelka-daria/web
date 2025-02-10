@@ -11,8 +11,8 @@
 
 [Тестовый прогон](https://github.com/user-attachments/files/18349340/G9-Test%2Brun%2B2025_01_07.pdf)
 
-[Задача](https://drive.google.com/file/d/1q1tlo5JSSUqJeHVmDSBu3F-OK7pRZIDS/view?usp=drive_link)
+[Изменение трафика: Map Remote](https://drive.google.com/file/d/1q1tlo5JSSUqJeHVmDSBu3F-OK7pRZIDS/view?usp=drive_link)
 
-[Задача](https://drive.google.com/file/d/1ClHusnJ_65abn1msLzBxuuTNxWC7hfCJ/view?usp=drive_link)
+[Изменение трафика: статус-код 403](https://drive.google.com/file/d/1ClHusnJ_65abn1msLzBxuuTNxWC7hfCJ/view?usp=drive_link)
 
-[Задача](https://drive.google.com/file/d/1BJAPBM6vORbGnRv8SOnnbhka7o-dJT0-/view?usp=drive_link)
+[Изменение трафика: количество товаров](https://drive.google.com/file/d/1BJAPBM6vORbGnRv8SOnnbhka7o-dJT0-/view?usp=drive_link)
