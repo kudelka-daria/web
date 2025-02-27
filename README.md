@@ -1,6 +1,7 @@
  # Web application testing
- 
-This repository contains some of the test artifacts I created during my learning process for testing the web application https://qa.demoshopping.ru/.
+
+ As part of the course, I learned key testing methods as checklists, test cases, bug reports, test plans.
+ This repository contains some of the test artifacts I created during my learning process for testing the web application https://qa.demoshopping.ru/.
 
 - [Test plan](https://docs.google.com/spreadsheets/d/1rqkM9UBypkUSkCtzPt-YagsISrD_D3TxFaFx7f3Kctg/edit?gid=0#gid=0) with a description of testing objectives, entry and exit criteria, strategy, risks, and resources.
 
